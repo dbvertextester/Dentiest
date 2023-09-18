@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "443782428856",
+    "firebase_url": "https://dentiest-915ff-default-rtdb.firebaseio.com",
+    "project_id": "dentiest-915ff",
+    "storage_bucket": "dentiest-915ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443782428856:android:7c93fbf19b295ae4da1c4d",
+        "android_client_info": {
+          "package_name": "com.dbvetex.dentiest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoI6riv-PfKxu7aL82IB7zhiKEMXZR4Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
