@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void authentication() {
         // Get the email and password from user input fields
+
         String emailToCheck = "user@example.com"; // Replace with the user's email to check
         String passwordToCheck = "userpassword"; // Replace with the user's password to check
 
@@ -75,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                             Toast.makeText(MainActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
                              loginSuccesfull();
                         } else {
-                          
+
                             Toast.makeText(MainActivity.this, "Incorrect Password", Toast.LENGTH_SHORT).show();
                         }
                     }

@@ -46,6 +46,9 @@ dependencies {
     implementation ("com.google.firebase:firebase-database:20.2.2")
     implementation ("com.google.firebase:firebase-auth:20.0.0")
 
+    implementation("com.squareup.retrofit2:retrofit:2.4.0")
+    implementation("com.google.code.gson:gson:2.4.0")
+    implementation("com.squareup.retrofit2:converter-gson:2.4.0")
 
 
 }
